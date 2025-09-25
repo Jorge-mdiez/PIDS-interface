@@ -1,0 +1,4 @@
+pyspark
+pymongo
+kafka-python
+psycopg2-binary
